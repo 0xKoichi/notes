@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 #If you publish to HTTPS: // < user name >. GitHub. IO/<REPO>
-git push -f git@github.com:0xkoichi/notes.git master:gh-pages
+git push -f git@github.com:0xKoichi/notes.git main:gh-pages
 
 cd -
