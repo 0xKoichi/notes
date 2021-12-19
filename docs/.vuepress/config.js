@@ -3,7 +3,6 @@ const { description } = require("../package");
 module.exports = {
   title: "JavaScript Notes",
   description: description,
-  base: "/notes/",
   head: [
     ["meta", { name: "theme-color", content: "#B03E71" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
