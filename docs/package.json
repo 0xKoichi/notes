@@ -10,7 +10,8 @@
   "repository": "/js-notes",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "gh": "bash deploy-gh.sh"
   },
   "license": "MIT",
   "devDependencies": {
